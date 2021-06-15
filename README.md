@@ -1,2 +1,2 @@
 # wordpress-display-current-page-template
-Display current page template to logged in user with post edit capabilities as a column in admin view and in lower left corner of browser window when viewing front end of site.
+Display current page template to logged in user with post edit capabilities as a column with sortable select menu in admin view; displays name of current template file in lower left corner of browser window when viewing front end of site.
