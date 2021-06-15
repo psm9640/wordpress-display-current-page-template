@@ -3,7 +3,7 @@
 /*
 Plugin Name: Display Current Page Template
 Plugin URI: #
-Description: Display current page template to logged in admin role both as a column in admin view and in lower left corner of window when viewing front end of site.
+Description: Display current page template to logged in user with post edit capabilities as a column in admin view and in lower left corner of browser window when viewing front end of site.
 Author: Peter Marra
 Version: 1.0
 Author URI: https://marraman.com/
